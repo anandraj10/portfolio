@@ -13,7 +13,7 @@ Welcome to my personal portfolio! This project is built using **React** and **Vi
 
 Check out the live version of my portfolio here:
 
-[Portfolio Live](https://your-portfolio-link.com)
+[Portfolio Live](https://portfolio-git-main-anand-rajs-projects-3bfcb836.vercel.app/)
 
 ## Technologies Used
 
@@ -34,10 +34,13 @@ Make sure you have **Node.js** (>=14.18.0) installed. You can download it from [
 
    ```bash
    git clone https://github.com/your-username/portfolio.git
-Navigate into the project folder:
+2. Clone the repository:
 
-Install dependencies:
-npm install
-npm run dev
+   ```bash
+   npm install
+3.Development:
+   ```bash
+  npm run dev
+
 
 
