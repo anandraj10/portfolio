@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Hostel Management System",
+        "imageSrc": "assets/projects/hostel.png",
+        "description": "This project was built to optimize frontend-MySQL communication using RESTful APIs, enhancing data retrieval efficiency",
+        "skills": [
+            "ReactJS",
+            "NodeJS",
+            "ExpressJS",
+            "HTML",
+            "CSS",
+            "MySQL"
+        ],
+        "demo": "https://github.com/RohanPhutke/Asteriks_Project",
+        "source": "https://github.com/RohanPhutke/Asteriks_Project"
+    },
+    {
+        "title": "Malicious Object Detection - Machine Learning",
+        "imageSrc": "assets/projects/project.png",
+        "description": "This project focuses on detecting malicious objects and differentiate real vs. fake objects.",
+        "skills": [
+            "YOLOv8",
+            "DepthAnythingv2",
+            "Python",
+            "OpenCV"
+        ],
+        "demo": "https://github.com/RohanPhutke/Malicious-Object-Detection",
+        "source": "https://github.com/RohanPhutke/Malicious-Object-Detection"
+    },
+    {
+        "title": "Chat Application",
+        "imageSrc": "assets/projects/project.png",
+        "description": "This project was built to create a real-time chat application using the MERN stack, integrating Socket.io for instant messaging and JWT for secure authentication.",
+        "skills": [
+            "ReactJS",
+            "NodeJS",
+            "ExpressJS",
+            "HTML",
+            "CSS",
+            "MongoDB"
+        ],
+        "demo": "https://github.com/anandraj10/Chat-Application",
+        "source": "https://github.com/anandraj10/Chat-Application"
+    },
+    {
+        "title": "Weather Application",
+        "imageSrc": "assets/projects/project.png",
+        "description": "The app tells the current temperature and some additional information like Air Quality Index, Real Feel, Humidity, Highest Temperature, Lowest Temperature,etc",
+        "skills": [
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ],
+        "demo": "https://github.com/anandraj10/weather-app-using-openweathermap-api-main",
+        "source": "https://github.com/anandraj10/weather-app-using-openweathermap-api-main"
+    }
+]
